@@ -1,3 +1,3 @@
-module github.com/writeonlycode/hugo-agency-web
+module github.com/wi-chiba/hugo-agency-web
 
 go 1.24.0
